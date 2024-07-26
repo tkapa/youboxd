@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "youboxd",
-  description: "Find you next favourite YouTube video",
+  description: "Find your next favourite YouTube video",
 };
 
 export default function RootLayout({
